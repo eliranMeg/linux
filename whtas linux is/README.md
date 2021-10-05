@@ -17,3 +17,7 @@ so here I'll introduce the main of linux distributions faamilies.
 * debian
 * Arch Linux
 
+# Where Linux came from.
+It all started In **August 25, 1991** when a person that called Linus Torvalds 
+decided to create a free operating system just for hubby
+Linus 
