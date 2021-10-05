@@ -11,5 +11,5 @@ There are a lot of linux distributions to list
 so here I'll introduce the main of linux distributions faamilies.
 
 ### Linux distributions
-* Red Hat 
+* Red Hat \n
     this linux m,z,xcm,mc,xcmxcm,zcx
