@@ -18,13 +18,12 @@ so here I'll introduce the main of linux distributions faamilies.
 * Arch Linux
 
 # A little history.
-> Multics
-  Before I tallk about linux we need to travel back to **1964** in this year
-  *MIT* along with *General Electric* and *Bell Labs*
-  started to create a operating system called **Multics**
-  after a while in 1969 Bell Labs pulled out of the project.
+Before I tallk about linux we need to travel back to **1964** in this year
+*MIT* along with *General Electric* and *Bell Labs*
+started to create a operating system called **Multics**
+after a while in 1969 Bell Labs pulled out of the project.
 
-  The story is not over yet
+  > The story is not over yet
   Multics development continued at General Electric and MIT.
   some of the people that worked in Bell Labs Keep working on the project
 
