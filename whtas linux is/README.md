@@ -27,7 +27,8 @@ after a while in 1969 Bell Labs pulled out of the project.
 Multics development continued at General Electric and MIT.
 *some of the people that worked in Bell Labs Keep working on the project as a result unix was created*
 
-Unix development started in the 1970s at the Bell Labs by *Ken Thompson, Dennis Ritchie*
+Unix development started in the 1970s at the Bell Labs by *Ken Thompson and Dennis Ritchie*
+
 
 
 It all started In **August 25, 1991** when a person that named Linus Torvalds 
