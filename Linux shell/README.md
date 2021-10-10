@@ -15,3 +15,6 @@ The sheel compared to Gui is less intuitive but it more powerful.
 * TC shell (tcsh)
 * Korn shell (ksh)
 * Bourne Again shell (bash)
+* Z sheel(szh)
+
+$ eliran
