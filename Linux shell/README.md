@@ -17,4 +17,6 @@ The sheel compared to Gui is less intuitive but it more powerful.
 * Bourne Again shell (bash)
 * Z sheel(szh)
 
-$ eliran
+To recognize which sheel you are useing
+type the following command in your terminal
+'$ echo'
