@@ -7,6 +7,7 @@ and which offer to user an interface with the computer.
 * Run programs 
 * Access to the file system 
 * Manage the computer
+* Navigate between different locations within the system
 
 The sheel compared to Gui is less intuitive but it more powerful.
 
@@ -21,6 +22,7 @@ The sheel compared to Gui is less intuitive but it more powerful.
 ### To recognize which sheel you are useing
 type the following command in your terminal
 
-``` 
+* ``` 
 $ echo $0
 ```
+
