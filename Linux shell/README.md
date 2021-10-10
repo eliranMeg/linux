@@ -11,9 +11,8 @@ and which offer to user an interface with the computer.
  
 
 There are many different kinds os sheels 
-
-    Bourne shell (sh)
-    C shell (csh)
-    TC shell (tcsh)
-    Korn shell (ksh)
-    Bourne Again shell (bash)
+*     Bourne shell (sh)
+*     C shell (csh)
+*     TC shell (tcsh)
+*     Korn shell (ksh)
+*     Bourne Again shell (bash)
