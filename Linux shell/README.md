@@ -9,7 +9,7 @@ and which offer to user an interface with the computer.
 
 The sheel compared to Gui is less intuitive but it more powerful.
 
-## There are many different kinds os sheels 
+### There are many different kinds os sheels 
 * Bourne shell (sh)
 * C shell (csh)
 * TC shell (tcsh)
@@ -17,7 +17,7 @@ The sheel compared to Gui is less intuitive but it more powerful.
 * Bourne Again shell (bash)
 * Z sheel(szh)
 
-To recognize which sheel you are useing
+### To recognize which sheel you are useing
 type the following command in your terminal
 
 ``` 
