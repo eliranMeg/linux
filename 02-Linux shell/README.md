@@ -17,7 +17,7 @@ when we turn on the computer it satrt in desktop mode and we can always use the 
 
 The sheel compared to Gui is less intuitive but it more powerful.
 
-### There are many different kinds os sheels 
+## There are many different kinds os sheels 
 * Bourne shell (sh)
 * C shell (csh)
 * TC shell (tcsh)
