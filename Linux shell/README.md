@@ -25,7 +25,12 @@ The sheel compared to Gui is less intuitive but it more powerful.
 $ echo $0
 ```
 
-To get the default shell:
+#### To get the default shell
 ``` 
 echo $SHELL
+```
+
+#### To see how many shells are installed
+``` 
+cat /etc/shells
 ```
