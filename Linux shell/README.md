@@ -19,7 +19,7 @@ The sheel compared to Gui is less intuitive but it more powerful.
 * Bourne Again shell (bash)
 * Z sheel(szh)
 
-### To recognize which sheel you are useing
+#### To recognize which sheel you are useing
 
 ``` 
 $ echo $0
