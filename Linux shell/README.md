@@ -27,10 +27,10 @@ $ echo $0
 
 #### To get the default shell
 ``` 
-echo $SHELL
+$ echo $SHELL
 ```
 
 #### To see how many shells are installed
 ``` 
-cat /etc/shells
+$ cat /etc/shells
 ```
