@@ -20,12 +20,12 @@ The sheel compared to Gui is less intuitive but it more powerful.
 * Z sheel(szh)
 
 ### To recognize which sheel you are useing
-type the following command in your terminal
 
 ``` 
 $ echo $0
 ```
-OR check the value of the SHELL environment variable:
+
+To get the default shell:
 ``` 
 echo $SHELL
 ```
