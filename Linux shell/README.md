@@ -1,7 +1,11 @@
 # The Sheel
 
 A sheel is just a program that usually integrated in an os
-and which offer to user an interface with the computer.
+and which offer to user an interact with the computer.
+
+Before computers had an gui The only way to communicate with the computer
+was through the sheel, nowadays when we turn on the computer it satrt in desktop mode 
+
 
 * Create executable script files
 * Run programs 
