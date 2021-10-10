@@ -1,7 +1,5 @@
 # The Sheel
 
-### What is a shell?
-
 A sheel is just a program that usually integrated in an os
 and which offer to user an interface with the computer.
 
