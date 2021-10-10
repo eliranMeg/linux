@@ -20,4 +20,6 @@ The sheel compared to Gui is less intuitive but it more powerful.
 To recognize which sheel you are useing
 type the following command in your terminal
 
-``` $ echo $0 ```
+``` 
+$ echo $0
+```
