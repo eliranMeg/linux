@@ -8,10 +8,9 @@ nowadays the situation is different
 when we turn on the computer it satrt in desktop mode and we can always use the shell whenever we want
 compared to Gui is less intuitive but it more powerful.
 
-
 The shell processes commands and outputs the results on the screen.  
 
-## some of features in shell
+## Some of features in shell
 
 * Create executable script files
 * Run programs 
