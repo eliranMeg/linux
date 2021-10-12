@@ -2,8 +2,8 @@
      
     
 
-#### view system information
-'''
-$ uanme
-'''
+#### View system information
+```
+     $ uanme
+```
 
