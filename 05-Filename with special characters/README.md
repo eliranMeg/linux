@@ -9,10 +9,21 @@
 
 #### To create/ manipulate files with special character 
 ```
-$ touch -- #file.txt
-$ touch -- ;file.txt
+$ touch '#file.txt'
+$ touch ./#file.txt
+$ cat '#file.txt'
+$ file ./#file.txt
+
+$ touch ';file.txt'
+$ touch ./';file.txt'
+$ cat ';file.txt'
+$ file ../';file.txt'
+
 $ touch -- -file.txt
+$ touch ./-file.txt
+
 $ file  -- #-;text.txt
+$ cat ./-file.txt
 ```
 
 
