@@ -3,5 +3,10 @@
 
 uniq - report or omit repeated lines
 ```
-$ uniq
+$ uniq [option] [input] 
+```
+
+wc - print count characters/ bytes/ newline/ words 
+```
+$ wc [option] [file] 
 ```
